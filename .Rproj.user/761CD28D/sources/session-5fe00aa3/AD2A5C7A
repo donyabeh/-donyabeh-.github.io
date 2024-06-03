@@ -3,7 +3,7 @@
     "path": "~/Documents/stat365_qw/BC_quarto_website/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "348548629",
+    "hash": "0",
     "contents": "",
     "dirty": true,
     "created": 1717350276823.0,
@@ -16,7 +16,7 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "14,12",
+        "cursorPosition": "14,46",
         "scrollLine": "0",
         "rmdVisualModeLocation": "197:0"
     },
@@ -25,7 +25,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1717375679307,
+    "last_content_update": 1717375758306,
     "read_only": false,
     "read_only_alternatives": []
 }
