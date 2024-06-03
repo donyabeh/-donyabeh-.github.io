@@ -3,7 +3,7 @@
     "path": "~/Documents/stat365_qw/BC_quarto_website/posts/project2/index.qmd",
     "project_path": "posts/project2/index.qmd",
     "type": "quarto_markdown",
-    "hash": "1934511824",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1717372132607.0,
@@ -21,11 +21,11 @@
         "scrollLine": "5"
     },
     "folds": "",
-    "lastKnownWriteTime": 1717373022,
+    "lastKnownWriteTime": 1717374540,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1717373022336,
+    "last_content_update": 1717374540,
     "read_only": false,
     "read_only_alternatives": []
 }

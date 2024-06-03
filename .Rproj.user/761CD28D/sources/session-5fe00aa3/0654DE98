@@ -3,7 +3,7 @@
     "path": "~/Documents/stat365_qw/BC_quarto_website/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "744476549",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1717350277124.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1717373089,
+    "lastKnownWriteTime": 1717374540,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1717373089855,
+    "last_content_update": 1717374540,
     "read_only": false,
     "read_only_alternatives": []
 }

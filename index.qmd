@@ -12,7 +12,7 @@ about:
       href: https://github.com/donyabeh
     - icon: file-earmark-pdf-fill
       text: Resume
-      href: STAT.Donya Behroozi Resume.pdf
+      href: BC_quarto_website/STAT.Donya Behroozi Resume.pdf
 resources: 
     - STAT.Donya Behroozi Resume.pdf
 ---
