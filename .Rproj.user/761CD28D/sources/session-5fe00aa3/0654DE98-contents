@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Donya Behroozi"
+  navbar:
+    right:
+      - href: projects.qmd
+        text: Projects
+      - icon: linkedin
+        href: https://www.linkedin.com/in/donya-behroozi/
+      - icon: github
+        href: https://github.com/donyabeh
+format:
+  html:
+    theme: flatly
+    css: styles.css
+
+editor: visual
+

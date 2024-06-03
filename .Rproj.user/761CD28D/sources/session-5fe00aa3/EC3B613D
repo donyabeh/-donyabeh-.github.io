@@ -1,0 +1,31 @@
+{
+    "id": "EC3B613D",
+    "path": "~/Documents/stat365_qw/BC_quarto_website/projects.qmd",
+    "project_path": "projects.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1717352574737.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "10,24",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "2:37"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1717352602,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1717352602852,
+    "read_only": false,
+    "read_only_alternatives": []
+}

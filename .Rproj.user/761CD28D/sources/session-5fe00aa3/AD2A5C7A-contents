@@ -1,0 +1,20 @@
+---
+title: "About"
+image: profileimage.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/donya-behroozi/
+    - icon: github
+      text: Github
+      href: https://github.com/donyabeh
+    - icon: file-earmark-pdf-fill
+      text: Resume
+      href: STAT.Donya Behroozi Resume.pdf
+resources: 
+    - STAT.Donya Behroozi Resume.pdf
+---
+
+Donya Behroozi is a student at California Polytechnic State University, San Luis Obispo, pursuing a Bachelor of Science in statistics. She currently is working with Dr. Billie-Jo Grant in undergraduate research to investigate sexual misconduct cases between teachers and students in K-12 schools across the United States. In her free time, Donya likes to go on hikes, runs, and read spooky thriller books.
